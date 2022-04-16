@@ -5,6 +5,7 @@ A portfolio of my work showcasing my development journey
 ## Table of Contents
 
  * [Installation](#installation) 
+ * [Usage](#usage)
  * [Credits](#credits)
  * [License](#license)
 
@@ -12,9 +13,28 @@ A portfolio of my work showcasing my development journey
 
 Portfolio is hosted at https://jvbridge.github.io/portfolio/
 
+## Usage
+
+This is a nice showcase of my portolio
+
 ## Credits
 
 Main code by Jonathan Bridge https://github.com/jvbridge
+
+Libaries used
+
+
+Jquery https://jquery.com/
+
+Jquery is probably the most prevalent API/Library on the web. I like it for the
+ease of selecting, modifying, and appending elements to the DOM
+
+Foundation https://get.foundation/
+
+I decided to try a brand new CSS framework this time, in order to diversify the
+ones I've dipped my toes in. This one seems nice, and I'm a long time Issac 
+Asimov fan. 
+
 
 ## License
 
