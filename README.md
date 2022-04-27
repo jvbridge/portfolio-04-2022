@@ -35,6 +35,8 @@ I decided to try a brand new CSS framework this time, in order to diversify the
 ones I've dipped my toes in. This one seems nice, and I'm a long time Issac 
 Asimov fan. 
 
+I got help with the layout from their portfolio design and altered it a bit more
+to fit my preferences
 
 ## License
 
