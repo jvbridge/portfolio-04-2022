@@ -10,12 +10,15 @@ A portfolio of my work showcasing my development journey
  * [License](#license)
 
 ## Installation
-
-Portfolio is hosted at https://jvbridge.github.io/portfolio/
+Simply download the repository and open `index.html` in the browser of your 
+choice, or go to https://jvbridge.github.io/portfolio/ where this portfolio is hosted at
 
 ## Usage
 
-This is a nice showcase of my portolio
+It's just reading, All the pictures are links, but there are also explict links
+to repositories below them as well.
+
+<img src=./assets/images/Portfolio.png>
 
 ## Credits
 
@@ -36,7 +39,7 @@ ones I've dipped my toes in. This one seems nice, and I'm a long time Issac
 Asimov fan. 
 
 I got help with the layout from their portfolio design and altered it a bit more
-to fit my preferences
+to fit my preferences.
 
 ## License
 
