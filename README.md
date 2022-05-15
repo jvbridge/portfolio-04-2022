@@ -11,7 +11,7 @@ A portfolio of my work showcasing my development journey
 
 ## Installation
 Simply download the repository and open `index.html` in the browser of your 
-choice, or go to https://jvbridge.github.io/portfolio/ where this portfolio is hosted at
+choice, or go to https://jvbridge.github.io/portfolio-04-2022/ where this portfolio is hosted at
 
 ## Usage
 
